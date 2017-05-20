@@ -1,6 +1,6 @@
 # TensorFlow-PlayGround
 
->This Repo is for the beginners who are starting with the basics of TensorFlow and want to play around with its capabilities in machine learning and data science. 
+>This Repository consists of TensorFlow Tutorials for the beginners who are starting with the basics of TensorFlow and want to play around with its capabilities in machine learning and data science. 
 
 > We will start with basic hello world programme and gradually move on to some real world problems.
 

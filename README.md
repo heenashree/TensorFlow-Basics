@@ -1,4 +1,4 @@
-# TensorFlow-PlayGround
+# TensorFlow Basics
 
 >This Repository consists of TensorFlow Tutorials for the beginners who are starting with the basics and want to play around with its capabilities in machine learning and data science. 
 

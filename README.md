@@ -10,3 +10,7 @@
 ### Install TensorFlow
 > For installation visit https://www.tensorflow.org/install/
 
+### notebooks
+* 01_tf_basics.ipynb
+* 02_tf_basics.ipynb
+* 03_tf_mnist_softmax_flattened_input .ipynb

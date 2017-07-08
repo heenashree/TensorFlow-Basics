@@ -15,3 +15,4 @@
 * 02_tf_basics.ipynb
 * 03_tf_mnist_softmax_flattened_input.ipynb
 * 03_tf_mnist_softmax_flattened_input_AdamOptimizer.ipynb
+* 03_tf_mnist_2hidden_layers_accuracy_.95.ipynb

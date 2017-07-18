@@ -11,8 +11,8 @@
 > For installation visit https://www.tensorflow.org/install/
 
 ### Environments 
-* Windows 10 , python 3.5, tensorflow 1.1.0
-* ubuntu 16.04, python 3.4, tensorflow 1.1.0
+* Windows 10 , python 3.5, tensorflow 1.2.1
+* ubuntu 16.04, python 3.4, tensorflow 1.2.1
 
 ### notebooks
 * 01_tf_basics.ipynb

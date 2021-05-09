@@ -21,3 +21,8 @@
 * 03_tf_mnist_02_softmax_flattened_input_AdamOptimizer.ipynb
 * 03_tf_mnist_03_hidden_layers_accuracy_.95.ipynb
 * 04_tf_mnist_convolution.ipynb
+
+
+
+### read more 
+http://9tocloud.com/tensorflow-deep-learning-artificial-intelligence.html
